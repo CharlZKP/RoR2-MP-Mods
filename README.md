@@ -34,7 +34,6 @@ it's probably going to be in this path
 ## Versions
 #### Current Version: April 2, ‎2020 | Artifact Update
  - Update so that it works with this Artifact Update
- - Dead players might be able to get all the items (I might or might not fix this)
 
 #### Version 1: March ‎17, ‎2020 | Hidden Realms Update
  - Every living player will earn Lunar coins as well 
