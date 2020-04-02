@@ -19,8 +19,8 @@ Only the host needs this mod for it to work
 
 
 ## Installation
-Download the from the release page
-Assembly-CSharp.dll
+Download the from the [release page](https://github.com/CharlZKP/RoR2-MP-Mods/releases)
+copy "Assembly-CSharp.dll"
 into this directory
 Risk of Rain2 (Root Game Path)/Risk of Rain 2_Data/Managed
 #### Don't forget to backup your Assembly-CSharp.dll before you do this ( you can just rename it like Assembly-CSharp.dll.bk )
