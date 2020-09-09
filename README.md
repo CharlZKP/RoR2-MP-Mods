@@ -32,7 +32,10 @@ it's probably going to be in this path
 
 
 ## Versions
-#### Current Version: April 2, ‎2020 | Artifact Update
+#### Current Version: September 9, ‎2020 | Artifact Update
+ - Update so that it works with the new update (I got mine yesterday)
+
+#### Version 2: April 2, ‎2020 | Artifact Update
  - Update so that it works with this Artifact Update
 
 #### Version 1: March ‎17, ‎2020 | Hidden Realms Update
